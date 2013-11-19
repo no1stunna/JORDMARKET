@@ -6,6 +6,8 @@ gem 'mysql2'
 
 gem 'haml-rails'
 
+gem 'bootstrap-sass'
+
 group :assets do
   gem 'sass-rails',   '~> 3.2.3'
 
